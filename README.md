@@ -1,3 +1,11 @@
+## 🐾 My Git Animal
+
+![git-animal](https://render.gitanimals.org/farms/dltldn1234?7)
+
+
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:00C7B7&height=200&section=header&text=Siwoo%20Lee&fontSize=40&fontColor=ffffff"/>
 </p>
