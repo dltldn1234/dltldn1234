@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 iOS Developer 지망생
 
-<!--
-**dltldn1234/dltldn1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! iOS 개발자를 목표로 공부하고 있는 학생입니다.
 
-Here are some ideas to get you started:
+## 📱 Skills
+- Swift
+- UIKit / SwiftUI
+- Xcode
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- iOS 앱 구조 (MVC / MVVM)
+- 네트워크 통신
+- 앱 배포 과정
+
+## 📂 Projects
+- 회사생활 시뮬레이터 (진행중)
+- 간단한 iOS 앱들
+
+## 🎯 Goal
+- 실제 앱 출시
+- iOS 취업 또는 앱 창업
+
+---
+
+🔥 꾸준히 성장 중입니다
