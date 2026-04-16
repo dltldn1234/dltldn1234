@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=니아이디&color=0A84FF"/>
+  <img src="https://komarev.com/ghpvc/?username=dltldn1234
+    &color=0A84FF"/>
 </p>
 
 ---
