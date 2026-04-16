@@ -1,26 +1,20 @@
-# 👋 iOS Developer 지망생
+# 👋 iOS Developer
 
-안녕하세요! iOS 개발자를 목표로 공부하고 있는 학생입니다.
-
-## 📱 Skills
-- Swift
-- UIKit / SwiftUI
-- Xcode
-- Git & GitHub
-
-## 🚀 Currently Learning
-- iOS 앱 구조 (MVC / MVVM)
-- 네트워크 통신
-- 앱 배포 과정
-
-## 📂 Projects
-- 회사생활 시뮬레이터 (진행중)
-- 간단한 iOS 앱들
-
-## 🎯 Goal
-- 실제 앱 출시
-- iOS 취업 또는 앱 창업
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C7B7&size=25&center=true&vCenter=true&width=500&lines=Future+iOS+Developer;Swift+Learner;Building+Real+Apps)
 
 ---
 
-🔥 꾸준히 성장 중입니다
+## 📱 Tech Stack
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+---
+
+## 🚀 Projects
+- iOS 앱 개발 (진행중)
+- 매칭 (진행중)
+- Book-on (진행중)
+
+---
+
+🔥 꾸준히 성장 중
