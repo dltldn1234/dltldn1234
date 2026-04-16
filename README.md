@@ -29,7 +29,5 @@
 
 ## 🚀 Projects
 - iOS App Project (In Progress)
-- Swift 문법 정리
-- UI 구현 연습
 
-🔥 꾸준히 성장 중
+## 🔥 꾸준히 성장 중
