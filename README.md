@@ -1,79 +1,169 @@
-## 🐾 My Git Animal
+# Siwoo Lee
 
-![git-animal](https://render.gitanimals.org/farms/dltldn1234?7)
+<div align="left">
 
+### iOS Developer
 
+Building useful iOS products with **Swift** and **SwiftUI**
 
+South Korea · Gwangju Software Meister High School
 
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:00C7B7&height=200&section=header&text=Siwoo%20Lee&fontSize=40&fontColor=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C7B7&size=25&center=true&vCenter=true&width=600&lines=iOS+Developer;Swift+%26+SwiftUI;Building+Real+Apps;Future+App+Creator"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dltldn1234
-    &color=0A84FF"/>
-</p>
+<br>
 
 ---
 
-## 👨‍💻 About Me
-- 📱 iOS 개발자를 목표로 공부 중
-- ⚡ Swift / SwiftUI 중심 개발
-- 🧠 문제 해결과 앱 구현을 좋아함
-- 🎯 실사용 가능한 앱 만드는 것이 목표
+## 01 About
+
+사용자가 실제로 사용하는 서비스를 만드는 iOS 개발자입니다
+
+Swift와 SwiftUI를 기반으로
+읽기 쉽고 유지보수하기 좋은 코드를 지향합니다
+
+단순히 기능만 구현하는 게 아니라
+문제를 해결하고 실제로 쓰이는 제품을 만드는 걸 좋아합니다
+
+<br>
 
 ---
 
-## 📱 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+## 02 Selected Works
+
+### BOOK-ON
+
+**School Library Platform**
+
+학교 도서관 서비스를 모바일에서 더 편하게 이용할 수 있도록 만든 iOS 앱입니다
+도서 조회, 대출 관련 기능, 사용자 편의성에 집중했습니다
+
+**Tech**
+`SwiftUI` `REST API` `Keychain` `MVVM`
+
+**Repository**
+[Book-on-iOS-v1](https://github.com/dltldn1234/Book-on-iOS-v1)
+
+<br>
+
+### HOPES
+
+**AI Communication Platform**
+
+AI 기반 커뮤니케이션 경험을 담은 iOS 프로젝트입니다
+SwiftUI 기반 구조와 사용자 흐름 설계에 집중했습니다
+
+**Tech**
+`SwiftUI` `Tuist` `MVVM`
+
+**Repository**
+[hopes-iOS-v1](https://github.com/team-native/hopes-iOS-v1)
+
+<br>
+
+### IT-DA
+
+**Community Platform**
+
+사용자 간 소통을 위한 커뮤니티형 iOS 프로젝트입니다
+로그인 플로우와 협업 개발 경험을 담고 있습니다
+
+**Tech**
+`SwiftUI` `OAuth` `Firebase`
+
+**Repository**
+[IT-DA-iOS](https://github.com/team-native/IT-DA-iOS)
+
+<br>
+
+---
+
+## 03 Stack
+
+### Language
+
+`Swift`
+
+### Apple
+
+`SwiftUI` `UIKit`
+
+### Architecture
+
+`MVVM`
+
+### Tools
+
+`Xcode` `Git` `GitHub` `Tuist`
+
+### Network
+
+`REST API` `OAuth 2.0`
+
+### Storage
+
+`UserDefaults` `Keychain` `Firebase`
+
+<br>
+
+---
+
+## 04 Experience & Activities
+
+### NATIVE
+
+**Software Development Team**
+
+iOS를 포함한 다양한 전공의 개발자들이 모여
+프로젝트와 협업을 진행하는 개발 팀에서 활동하고 있습니다
+
+<br>
+
+### GEEKS HACKATHON 2026
+
+**Grand Prize · Excellence Award**
+
+첫 해커톤 참가에서
+대상과 우수상을 수상했습니다
+
+<br>
+
+### Gwangju Software Meister High School
+
+**Software Major**
+
+소프트웨어 전공 학생으로
+iOS 개발과 실전 프로젝트 경험을 쌓고 있습니다
+
+<br>
+
+---
+
+## 05 GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dltldn1234&show_icons=true&theme=transparent&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltldn1234&layout=compact&theme=transparent&hide_border=true" height="160" />
 </p>
 
----
-
-## 🚀 Projects
-- 📱 iOS App Project (In Progress)
-- 🧠 Swift Algorithm Study
-- 🎨 UI Practice (SwiftUI)
+<br>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dltldn1234&show_icons=true&theme=tokyonight"/>
-</p>
+## 06 Contact
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dltldn1234&theme=tokyonight"/>
-</p>
+**GitHub**
+[github.com/dltldn1234](https://github.com/dltldn1234)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dltldn1234&theme=tokyo-night"/>
-</p>
+**Email**
+[dltldn1234@gmail.com](mailto:dltldn1234@gmail.com)
 
----
+**Instagram**
+@siwoo_l.i
 
-## 🎯 Goal
-- 🚀 App Store 앱 출시
-- 💼 iOS 개발자로 취업
-- 🔥 나만의 서비스 만들기
+<br>
 
 ---
 
-## 🧠 Currently Learning
-- MVVM 패턴
-- 네트워크 통신
-- 앱 아키텍처 설계
+## 07 One Line
 
----
-
-🔥 *계속 성장하고 발전하는중.*
+> Building real iOS products, not just practice projects
