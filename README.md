@@ -85,7 +85,15 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <!-- ACTIVITY:START -->
 
-`Waiting for first GitHub Actions sync...`
+↗ **PUSH** → [team-native/hopes-iOS-v1](https://github.com/team-native/hopes-iOS-v1) — `Pushed commits` <sub>23h ago</sub>
+
++ **CREATE** → `branch` in [team-native/hopes-iOS-v1](https://github.com/team-native/hopes-iOS-v1) <sub>5h ago</sub>
+
++ **CREATE** → `branch` in [team-native/hopes-iOS-v1](https://github.com/team-native/hopes-iOS-v1) <sub>5h ago</sub>
+
+# **ISSUE CLOSED** → [테스트 중 발견된 탭바 및 계정 정보 오류 수정](https://github.com/team-native/hopes-iOS-v1/issues/201) · `team-native/hopes-iOS-v1` <sub>2h ago</sub>
+
+⌁ **PR MERGED** → [Pull request](https://github.com/team-native/hopes-iOS-v1) · `team-native/hopes-iOS-v1` <sub>2h ago</sub>
 
 <!-- ACTIVITY:END -->
 
