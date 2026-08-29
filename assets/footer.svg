@@ -1,0 +1,10 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="160"><stop stop-color="#02060B"/><stop offset=".5" stop-color="#07111B"/><stop offset="1" stop-color="#02060B"/></linearGradient></defs>
+<rect width="1200" height="160" rx="22" fill="url(#g)"/>
+<rect x=".75" y=".75" width="1198.5" height="158.5" rx="21.25" fill="none" stroke="#15354D" stroke-width="1.5"/>
+<g font-family="SFMono-Regular,Menlo,Consolas,monospace" text-anchor="middle">
+<text x="600" y="48" fill="#748A9B" font-size="14">SYSTEM_LOG // SESSION ACTIVE</text>
+<text x="600" y="94" fill="#F0F6FC" font-size="30" font-weight="700">iOS // TOP</text>
+<text x="600" y="128" fill="#007AFF" font-size="16">THE NEXT BUILD STARTS NOW_</text>
+</g>
+</svg>

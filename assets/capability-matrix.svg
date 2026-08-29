@@ -1,0 +1,47 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340"><stop stop-color="#02060B"/><stop offset="1" stop-color="#07111B"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#0C2030" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="22" fill="url(#grid)" opacity=".65"/>
+<rect x=".75" y=".75" width="1198.5" height="338.5" rx="21.25" fill="none" stroke="#17344B" stroke-width="1.5"/>
+<g font-family="SFMono-Regular,Menlo,Consolas,monospace">
+<text x="42" y="44" fill="#7C93A5" font-size="15">CAPABILITY_MATRIX // VERIFIED</text>
+<circle cx="1118" cy="39" r="5" fill="#34C759"/><text x="1134" y="44" fill="#7C93A5" font-size="13">READY</text>
+</g>
+<g font-family="-apple-system,BlinkMacSystemFont,Inter,Arial,sans-serif">
+  <g transform="translate(42 78)">
+    <rect width="260" height="210" rx="16" fill="#050B12" stroke="#14324A"/>
+    <text x="22" y="34" fill="#00AAFF" font-size="13" font-family="monospace">01 / APPLE CORE</text>
+    <text x="22" y="75" fill="#F0F6FC" font-size="24" font-weight="700">iOS Engineering</text>
+    <text x="22" y="116" fill="#9FB0BE" font-size="16">Swift · SwiftUI · UIKit</text>
+    <text x="22" y="148" fill="#9FB0BE" font-size="16">Xcode · Keychain</text>
+    <text x="22" y="180" fill="#9FB0BE" font-size="16">App Lifecycle</text>
+  </g>
+  <g transform="translate(318 78)">
+    <rect width="260" height="210" rx="16" fill="#050B12" stroke="#14324A"/>
+    <text x="22" y="34" fill="#00AAFF" font-size="13" font-family="monospace">02 / APP SYSTEM</text>
+    <text x="22" y="75" fill="#F0F6FC" font-size="24" font-weight="700">Engineering</text>
+    <text x="22" y="116" fill="#9FB0BE" font-size="16">REST · HTTP/HTTPS</text>
+    <text x="22" y="148" fill="#9FB0BE" font-size="16">OAuth · JSON</text>
+    <text x="22" y="180" fill="#9FB0BE" font-size="16">MVVM · Tuist</text>
+  </g>
+  <g transform="translate(594 78)">
+    <rect width="260" height="210" rx="16" fill="#050B12" stroke="#14324A"/>
+    <text x="22" y="34" fill="#00AAFF" font-size="13" font-family="monospace">03 / DESIGN NODE</text>
+    <text x="22" y="75" fill="#F0F6FC" font-size="24" font-weight="700">Product Design</text>
+    <text x="22" y="116" fill="#9FB0BE" font-size="16">Figma · UI/UX</text>
+    <text x="22" y="148" fill="#9FB0BE" font-size="16">Prototyping</text>
+    <text x="22" y="180" fill="#9FB0BE" font-size="16">Design Systems</text>
+  </g>
+  <g transform="translate(870 78)">
+    <rect width="288" height="210" rx="16" fill="#050B12" stroke="#007AFF"/>
+    <text x="22" y="34" fill="#00AAFF" font-size="13" font-family="monospace">04 / MISSION</text>
+    <text x="22" y="75" fill="#F0F6FC" font-size="24" font-weight="700">Keep Shipping.</text>
+    <text x="22" y="116" fill="#9FB0BE" font-size="16">Learn deeply.</text>
+    <text x="22" y="148" fill="#9FB0BE" font-size="16">Build precisely.</text>
+    <text x="22" y="180" fill="#007AFF" font-size="16" font-weight="700">Aim higher.</text>
+  </g>
+</g>
+</svg>
