@@ -69,12 +69,7 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 ## `GITHUB // LIVE SIGNAL`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dltldn1234&show_icons=true&hide_border=true&bg_color=02060B&title_color=007AFF&icon_color=00AAFF&text_color=C9D1D9&ring_color=007AFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dltldn1234&hide_border=true&background=02060B&stroke=17202A&ring=007AFF&fire=00AAFF&currStreakLabel=007AFF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=5E6B78" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dltldn1234&bg_color=02060B&color=778899&line=007AFF&point=FFFFFF&area=true&area_color=007AFF&hide_border=true&custom_title=DEVELOPMENT%20SIGNAL" />
+  <img src="./assets/github-signal.svg" width="100%" alt="SIWOO GitHub live signal"/>
 </p>
 
 <br/>
