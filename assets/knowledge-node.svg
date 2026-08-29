@@ -1,0 +1,26 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SIWOO SYSTEM knowledge node</title>
+  <desc id="desc">TIL system learning sequence: Learn, Understand, Build, Debug, Ship, Repeat.</desc>
+  <defs>
+    <linearGradient id="knowledge-bg" x1="0" y1="0" x2="1200" y2="270" gradientUnits="userSpaceOnUse"><stop stop-color="#02060B"/><stop offset="1" stop-color="#07111B"/></linearGradient>
+    <pattern id="knowledge-grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#0C2030" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="270" rx="22" fill="url(#knowledge-bg)"/>
+  <rect width="1200" height="270" rx="22" fill="url(#knowledge-grid)" opacity=".62"/>
+  <rect x=".75" y=".75" width="1198.5" height="268.5" rx="21.25" fill="none" stroke="#14324A" stroke-width="1.5"/>
+  <g font-family="SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="42" y="44" fill="#8B949E" font-size="15">KNOWLEDGE_NODE // TIL SYSTEM</text>
+    <circle cx="1118" cy="39" r="5" fill="#34C759"/><text x="1134" y="44" fill="#8B949E" font-size="13">ONLINE</text>
+  </g>
+  <rect x="42" y="72" width="190" height="146" rx="14" fill="#050B12" stroke="#007AFF"/>
+  <text x="64" y="108" fill="#00AAFF" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="13">TIL SYSTEM</text>
+  <text x="64" y="147" fill="#F0F6FC" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="25" font-weight="700">KNOWLEDGE</text>
+  <text x="64" y="179" fill="#8B949E" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="13">OPEN TIL ↗</text>
+  <g font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="13" text-anchor="middle">
+    <path d="M272 145H1082" stroke="#14324A" stroke-width="2"/>
+    <path d="M272 145H1082" stroke="#007AFF" stroke-width="2" stroke-dasharray="7 13" opacity=".8"/>
+    <g fill="#050B12" stroke="#00AAFF" stroke-width="2"><circle cx="300" cy="145" r="20"/><circle cx="455" cy="145" r="20"/><circle cx="610" cy="145" r="20"/><circle cx="765" cy="145" r="20"/><circle cx="920" cy="145" r="20"/><circle cx="1075" cy="145" r="20"/></g>
+    <g fill="#F0F6FC"><text x="300" y="151">01</text><text x="455" y="151">02</text><text x="610" y="151">03</text><text x="765" y="151">04</text><text x="920" y="151">05</text><text x="1075" y="151">06</text></g>
+    <g fill="#8B949E"><text x="300" y="194">LEARN</text><text x="455" y="194">UNDERSTAND</text><text x="610" y="194">BUILD</text><text x="765" y="194">DEBUG</text><text x="920" y="194">SHIP</text><text x="1075" y="194">REPEAT</text></g>
+  </g>
+</svg>

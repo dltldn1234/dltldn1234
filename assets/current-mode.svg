@@ -1,0 +1,21 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SIWOO SYSTEM current mode</title>
+  <desc id="desc">Current focus: learning, design, building, and target iOS top.</desc>
+  <defs>
+    <linearGradient id="mode-bg" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#02060B"/><stop offset="1" stop-color="#07111B"/></linearGradient>
+    <pattern id="mode-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#0C2030" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="390" rx="22" fill="url(#mode-bg)"/>
+  <rect width="1200" height="390" rx="22" fill="url(#mode-grid)" opacity=".6"/>
+  <rect x=".75" y=".75" width="1198.5" height="388.5" rx="21.25" fill="none" stroke="#14324A" stroke-width="1.5"/>
+  <g font-family="SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="42" y="44" fill="#8B949E" font-size="15">CURRENT_MODE // BUILDING</text>
+    <circle cx="1118" cy="39" r="5" fill="#34C759"/><text x="1134" y="44" fill="#8B949E" font-size="13">ACTIVE</text>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif">
+    <g transform="translate(42 78)"><rect width="540" height="122" rx="16" fill="#050B12" stroke="#14324A"/><text x="24" y="34" fill="#00AAFF" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="13">01 / LEARNING</text><text x="24" y="70" fill="#F0F6FC" font-size="20" font-weight="700">Swift <tspan fill="#8B949E" font-weight="400">/ Apple Platform</tspan></text><text x="24" y="94" fill="#8B949E" font-size="17">Networking / Architecture</text><path d="M286 93H493" stroke="#007AFF" stroke-width="2" opacity=".7"/></g>
+    <g transform="translate(618 78)"><rect width="540" height="122" rx="16" fill="#050B12" stroke="#14324A"/><text x="24" y="34" fill="#00AAFF" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="13">02 / DESIGN</text><text x="24" y="76" fill="#F0F6FC" font-size="22" font-weight="700">Figma <tspan fill="#8B949E" font-weight="400">/ UI/UX / Design Systems</tspan></text><path d="M24 98H493" stroke="#007AFF" stroke-width="2" opacity=".7"/></g>
+    <g transform="translate(42 222)"><rect width="740" height="122" rx="16" fill="#050B12" stroke="#14324A"/><text x="24" y="34" fill="#00AAFF" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="13">03 / BUILDING</text><text x="24" y="70" fill="#F0F6FC" font-size="19" font-weight="700">Product Engineering <tspan fill="#8B949E" font-weight="400">/ Cleaner Architecture</tspan></text><text x="24" y="94" fill="#8B949E" font-size="17">Stronger Debugging</text><path d="M211 93H693" stroke="#007AFF" stroke-width="2" opacity=".7"/></g>
+    <g transform="translate(818 222)"><rect width="340" height="122" rx="16" fill="#050B12" stroke="#007AFF"/><text x="24" y="34" fill="#00AAFF" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="13">04 / TARGET</text><text x="24" y="80" fill="#F0F6FC" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="25" font-weight="700">iOS <tspan fill="#007AFF">// TOP</tspan></text><circle cx="292" cy="72" r="5" fill="#34C759"/></g>
+  </g>
+</svg>
