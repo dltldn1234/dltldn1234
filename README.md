@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/dltldn1234/dltldn1234"><strong>dltldn1234/dltldn1234</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1m ago</sub></td></tr>
 <tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>23h ago</sub></td></tr>
 <tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>BRANCH · fix#191]-비밀번호-정규식-오류-표시</sub></td><td align="right"><sub>5h ago</sub></td></tr>
 <tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>BRANCH · refactor#189]-네트워크-코드-구조-분리</sub></td><td align="right"><sub>5h ago</sub></td></tr>
 <tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1/issues/201"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>CLOSED · 테스트 중 발견된 탭바 및 계정 정보 오류 수정</sub></td><td align="right"><sub>2h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>2h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
