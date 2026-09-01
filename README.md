@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>BRANCH · chore-저장-관련-로직-버튼-없애기</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1/issues/203"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>LABELED · 채팅화면에서 저장 버튼 없애기 및 관련 로직 삭제</sub></td><td align="right"><sub>4h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1/issues/203"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>ASSIGNED · 채팅화면에서 저장 버튼 없애기 및 관련 로직 삭제</sub></td><td align="right"><sub>4h ago</sub></td></tr>
 <tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/Native-2---AI"><strong>team-native/Native-2---AI</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>3d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Native-2-client"><strong>team-native/Native-2-client</strong></a><br/><sub>BRANCH · main</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Native-2-main"><strong>team-native/Native-2-main</strong></a><br/><sub>BRANCH · main</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>3d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>3d ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Native-2-client"><strong>team-native/Native-2-client</strong></a><br/><sub>BRANCH · main</sub></td><td align="right"><sub>2d ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
