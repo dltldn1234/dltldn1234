@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>17h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>17h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>17h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1/issues/210"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>CLOSED · 채팅 탭 이동 시 진행 중인 대화 유지</sub></td><td align="right"><sub>15h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1/issues/210"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>OPENED · 채팅 탭 이동 시 진행 중인 대화 유지</sub></td><td align="right"><sub>15h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>21h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>19h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>21h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>21h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
