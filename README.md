@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1/issues/203"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>OPENED · 채팅화면에서 저장 버튼 없애기 및 관련 로직 삭제</sub></td><td align="right"><sub>3h ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>BRANCH · chore-저장-관련-로직-버튼-없애기</sub></td><td align="right"><sub>8h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1/issues/203"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>LABELED · 채팅화면에서 저장 버튼 없애기 및 관련 로직 삭제</sub></td><td align="right"><sub>8h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1/issues/203"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>ASSIGNED · 채팅화면에서 저장 버튼 없애기 및 관련 로직 삭제</sub></td><td align="right"><sub>8h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/Native-2---AI"><strong>team-native/Native-2---AI</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>3d ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>5h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>5h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1/issues/210"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>CLOSED · 채팅 탭 이동 시 진행 중인 대화 유지</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1/issues/210"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>OPENED · 채팅 탭 이동 시 진행 중인 대화 유지</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
