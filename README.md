@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>21h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>19h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>BRANCH · chore-xcloud-정리</sub></td><td align="right"><sub>1d ago</sub></td></tr>
 <tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>21h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>21h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/dltldn1234/who-make-program/issues/19"><strong>dltldn1234/who-make-program</strong></a><br/><sub>CLOSED · feat: build the Metal holographic core v2</sub></td><td align="right"><sub>4h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/dltldn1234/who-make-program"><strong>dltldn1234/who-make-program</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>4h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/dltldn1234/who-make-program"><strong>dltldn1234/who-make-program</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>4h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
