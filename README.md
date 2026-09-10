@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO/issues/1"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>LABELED · 기본 폴더 구조 세팅</sub></td><td align="right"><sub>1h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO/issues/1"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>OPENED · 기본 폴더 구조 세팅</sub></td><td align="right"><sub>1h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO/issues/1"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>ASSIGNED · 기본 폴더 구조 세팅</sub></td><td align="right"><sub>1h ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>BRANCH · fix-다크모드-텍스트-가독성</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO/issues/1"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>LABELED · 기본 폴더 구조 세팅 및 리스트 만들기</sub></td><td align="right"><sub>2h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO/issues/1"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>LABELED · 기본 폴더 구조 세팅 및 리스트 만들기</sub></td><td align="right"><sub>7h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO/issues/1"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>OPENED · 기본 폴더 구조 세팅 및 리스트 만들기</sub></td><td align="right"><sub>7h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO/issues/1"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>ASSIGNED · 기본 폴더 구조 세팅 및 리스트 만들기</sub></td><td align="right"><sub>7h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
