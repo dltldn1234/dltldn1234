@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>BRANCH · refactor-텍스트색상-레이아웃상수</sub></td><td align="right"><sub>8h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1/issues/162"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>CLOSED · refactor: 화면 텍스트 색상과 반복 UI 상수 정리</sub></td><td align="right"><sub>8h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>8h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>8h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1/issues/162"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>OPENED · refactor: 화면 텍스트 색상과 반복 UI 상수 정리</sub></td><td align="right"><sub>9h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO/issues/1"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>LABELED · 기본 폴더 구조 세팅</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO/issues/1"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>OPENED · 기본 폴더 구조 세팅</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO/issues/1"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>ASSIGNED · 기본 폴더 구조 세팅</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>BRANCH · fix-다크모드-텍스트-가독성</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
