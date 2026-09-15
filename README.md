@@ -83,10 +83,10 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
 <tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>BRANCH · fix-독서마라톤-연동버튼-여백</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>BRANCH · fix-화면-이전복귀-보강</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>43m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO/issues/1"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>CLOSED · 기본 폴더 구조 세팅 및 리스트 만들기</sub></td><td align="right"><sub>43m ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · feat/#22-work-photo</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>BRANCH · fix-받은알림-예시데이터-제거</sub></td><td align="right"><sub>1d ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
