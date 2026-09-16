@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>8h ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>BRANCH · feat/#3-student-status-management</sub></td><td align="right"><sub>8h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>7h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1/issues/188"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>CLOSED · feat: 알림함 실제 이력 API 연동</sub></td><td align="right"><sub>7h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>7h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>12h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/GOMS-ONBOARDING/GOMS-SIWOO"><strong>GOMS-ONBOARDING/GOMS-SIWOO</strong></a><br/><sub>BRANCH · feat/#3-student-status-management</sub></td><td align="right"><sub>13h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>12h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1/issues/188"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>CLOSED · feat: 알림함 실제 이력 API 연동</sub></td><td align="right"><sub>12h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>12h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
