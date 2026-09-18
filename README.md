@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · refactor/#35-screen-components</sub></td><td align="right"><sub>4h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/35"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>LABELED · refactor: 화면 공통 컴포넌트와 홈 구조 정리</sub></td><td align="right"><sub>4h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/35"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · refactor: 화면 공통 컴포넌트와 홈 구조 정리</sub></td><td align="right"><sub>4h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/35"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>ASSIGNED · refactor: 화면 공통 컴포넌트와 홈 구조 정리</sub></td><td align="right"><sub>4h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>4h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>21h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · refactor/#35-screen-components</sub></td><td align="right"><sub>8h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/35"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>LABELED · refactor: 화면 공통 컴포넌트와 홈 구조 정리</sub></td><td align="right"><sub>8h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/35"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · refactor: 화면 공통 컴포넌트와 홈 구조 정리</sub></td><td align="right"><sub>8h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/35"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>ASSIGNED · refactor: 화면 공통 컴포넌트와 홈 구조 정리</sub></td><td align="right"><sub>8h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
