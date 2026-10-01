@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/155"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>CLOSED · fix: 작업·휴식 사진의 날씨 정보 없음 저장 오류</sub></td><td align="right"><sub>3h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1/issues/202"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>LABELED · chore: API HTTPS/TLS 배포 엔드포인트 제공</sub></td><td align="right"><sub>8m ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1/issues/200"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>CLOSED · fix: 앱 전체 코드 점검 및 동작 오류 수정</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1/issues/202"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>OPENED · chore: API HTTPS/TLS 배포 엔드포인트 제공</sub></td><td align="right"><sub>1h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
