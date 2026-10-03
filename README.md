@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>18h ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>BRANCH · fix-password-reset-back-203</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · fix/#159-thermometer-apparent-temperature</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>2d ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1/issues/223"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>LABELED · fix: 탭과 전체 화면 Safe Area 레이아웃 보정</sub></td><td align="right"><sub>1m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1/issues/223"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>OPENED · fix: 탭과 전체 화면 Safe Area 레이아웃 보정</sub></td><td align="right"><sub>1m ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>BRANCH · fix-user-facing-errors-211</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>BRANCH · fix-read365-cookie-domain-215</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/174"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · [Bug] iPhone 전용 지원과 기기별 화면 크기 대응</sub></td><td align="right"><sub>9m ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
