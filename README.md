@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>6h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>8h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>6h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>6h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/184"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>CLOSED · [Chore] Xcode XCTest 타깃과 CI 테스트 경로 구성</sub></td><td align="right"><sub>6h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1/issues/11"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>LABELED · feat: 라이트·다크 앱 아이콘 에셋 카탈로그 적용</sub></td><td align="right"><sub>4m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1/issues/11"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>OPENED · feat: 라이트·다크 앱 아이콘 에셋 카탈로그 적용</sub></td><td align="right"><sub>5m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>6m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1/issues/9"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>CLOSED · feat: Figma E1~E6 A-Path 시뮬레이터와 기회 해금 흐름 구현</sub></td><td align="right"><sub>6m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>6m ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
