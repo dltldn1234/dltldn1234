@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1/issues/11"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>LABELED · feat: 라이트·다크 앱 아이콘 에셋 카탈로그 적용</sub></td><td align="right"><sub>4m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1/issues/11"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>OPENED · feat: 라이트·다크 앱 아이콘 에셋 카탈로그 적용</sub></td><td align="right"><sub>5m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>6m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1/issues/9"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>CLOSED · feat: Figma E1~E6 A-Path 시뮬레이터와 기회 해금 흐름 구현</sub></td><td align="right"><sub>6m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>6m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>2h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1/issues/13"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>LABELED · feat: MY 프로필 편집과 보유 조건 추가 흐름 구현</sub></td><td align="right"><sub>2h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1/issues/15"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>OPENED · fix: 전체 화면 Figma 직접 대조와 여백·타이포그래피 정렬</sub></td><td align="right"><sub>2h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>BRANCH · feat/11-app-icon-appearance</sub></td><td align="right"><sub>11h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
