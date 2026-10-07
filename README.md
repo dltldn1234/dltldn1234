@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>2h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1/issues/13"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>LABELED · feat: MY 프로필 편집과 보유 조건 추가 흐름 구현</sub></td><td align="right"><sub>2h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1/issues/15"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>OPENED · fix: 전체 화면 Figma 직접 대조와 여백·타이포그래피 정렬</sub></td><td align="right"><sub>2h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>4h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>4h ago</sub></td></tr>
 <tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>3h ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>BRANCH · feat/11-app-icon-appearance</sub></td><td align="right"><sub>11h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
