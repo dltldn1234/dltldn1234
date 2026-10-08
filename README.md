@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>15h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>14h ago</sub></td></tr>
 <tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>14h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>16h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>23h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>22h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>21h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
