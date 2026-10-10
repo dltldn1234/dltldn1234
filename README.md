@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>BRANCH · fix/testflight-build-number-218</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · design/#186-figma-ui-parity</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>14h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/190"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · design: 홈 날씨 요약 Figma 정합 및 화면 크기 점검</sub></td><td align="right"><sub>48m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/190"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>LABELED · design: 홈 날씨 요약 Figma 정합 및 화면 크기 점검</sub></td><td align="right"><sub>48m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/TEAM-FINDR/FINDR-iOS-v1"><strong>TEAM-FINDR/FINDR-iOS-v1</strong></a><br/><sub>BRANCH · fix/exclude-duplicate-swift-sources</sub></td><td align="right"><sub>1h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
