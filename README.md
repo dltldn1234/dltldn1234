@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>4h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>5h ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>BRANCH · chore/#1-extension-setup</sub></td><td align="right"><sub>5h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE/issues/4"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>OPENED · Workspace 생성·편집 및 로컬 저장</sub></td><td align="right"><sub>5h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE/issues/3"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>OPENED · 사이드 패널 UX 및 MVP 품질 검증</sub></td><td align="right"><sub>5h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE/issues/15"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>OPENED · [Fix] Workspace 삭제 시 모든 창의 연결 그룹 자동 해제</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE/issues/11"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>OPENED · [Bug] 그룹화 해제 후 활성 그룹 목록 재동기화</sub></td><td align="right"><sub>2h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE/issues/13"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>OPENED · [Bug] Workspace와 Chrome 그룹 색상 선택적 동기화</sub></td><td align="right"><sub>2h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
