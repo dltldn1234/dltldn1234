@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE/issues/15"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>OPENED · [Fix] Workspace 삭제 시 모든 창의 연결 그룹 자동 해제</sub></td><td align="right"><sub>1h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE/issues/11"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>OPENED · [Bug] 그룹화 해제 후 활성 그룹 목록 재동기화</sub></td><td align="right"><sub>2h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE/issues/13"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>OPENED · [Bug] Workspace와 Chrome 그룹 색상 선택적 동기화</sub></td><td align="right"><sub>2h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>BRANCH · feat/#5-tab-group-integration</sub></td><td align="right"><sub>15h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>8h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>BRANCH · feat/#17-group-ungroup-menu</sub></td><td align="right"><sub>8h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE/issues/17"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>OPENED · [Feat] Unassigned Groups 메뉴에서 그룹 해제</sub></td><td align="right"><sub>8h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/SKOPE-ORG/SKOPE/issues/15"><strong>SKOPE-ORG/SKOPE</strong></a><br/><sub>OPENED · [Fix] Workspace 삭제 시 모든 창의 연결 그룹 자동 해제</sub></td><td align="right"><sub>10h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
