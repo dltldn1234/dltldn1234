@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>22h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>22h ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>BRANCH · test/#207-product-navigation-ui-tests</sub></td><td align="right"><sub>23h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend/issues/30"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>CLOSED · 관리자가 상품·주문·재고를 바꿔도 누가 언제 바꿨는지 남지 않는 문제</sub></td><td align="right"><sub>11m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>11m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>13m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>14m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>14m ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
