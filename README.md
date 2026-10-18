@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend/issues/30"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>CLOSED · 관리자가 상품·주문·재고를 바꿔도 누가 언제 바꿨는지 남지 않는 문제</sub></td><td align="right"><sub>11m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>11m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>13m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>14m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>14m ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>BRANCH · fix/#209-stabilize-ui-route-waits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>BRANCH · feat/24-admin-managed-content</sub></td><td align="right"><sub>8h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>BRANCH · feat/23-manage-product-skus</sub></td><td align="right"><sub>8h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>BRANCH · fix/#12-refresh-token-cleanup</sub></td><td align="right"><sub>9h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>BRANCH · fix/#28-scheduler-locks</sub></td><td align="right"><sub>9h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
