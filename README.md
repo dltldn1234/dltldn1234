@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>BRANCH · fix/#26-login-lockout-dos</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>16h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>16h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/213"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>LABELED · feat: Figma 주소 검색·배송 요청·상품 필터 연결</sub></td><td align="right"><sub>7h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/213"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>OPENED · feat: Figma 주소 검색·배송 요청·상품 필터 연결</sub></td><td align="right"><sub>7h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/213"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>ASSIGNED · feat: Figma 주소 검색·배송 요청·상품 필터 연결</sub></td><td align="right"><sub>7h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/213"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>LABELED · feat: Figma 주소 검색·배송 요청·상품 필터 연결</sub></td><td align="right"><sub>7h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>7h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
