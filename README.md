@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>BRANCH · fix/#8-timezone</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>BRANCH · feat/30-admin-audit-log</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-backend"><strong>team-nativeLab/Eum-ShoppingMall-backend</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2d ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>4m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/235"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>LABELED · 라우트 감사 문서의 D-01~D-12 상태를 실제 구현과 맞추기</sub></td><td align="right"><sub>6m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/235"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>OPENED · 라우트 감사 문서의 D-01~D-12 상태를 실제 구현과 맞추기</sub></td><td align="right"><sub>6m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>7m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/233"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>CLOSED · 가입의 마케팅 수신 동의 보기 경로 연결</sub></td><td align="right"><sub>7m ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
