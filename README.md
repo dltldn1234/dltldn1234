@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/GYMUP-iOS"><strong>team-native/GYMUP-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/GYMUP-iOS/issues/2"><strong>team-native/GYMUP-iOS</strong></a><br/><sub>OPENED · chore: GYMUP-iOS 초기 개발 환경 구성</sub></td><td align="right"><sub>2h ago</sub></td></tr>
 <tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>BRANCH · fix/#223-ci-simulator-destination</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>BRANCH · feat/#219-cancel-exchange-request</sub></td><td align="right"><sub>1d ago</sub></td></tr>
 <tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/GYMUP-iOS/issues/1"><strong>team-native/GYMUP-iOS</strong></a><br/><sub>CLOSED · test</sub></td><td align="right"><sub>5h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>BRANCH · fix/#229-simulator-bootstrap-retry</sub></td><td align="right"><sub>1d ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
