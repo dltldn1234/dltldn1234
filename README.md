@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/206"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · fix: 프로필 회사명과 이름 변경 막기</sub></td><td align="right"><sub>1h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/204"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · fix: 키보드 표시 시 입력 화면 레이아웃 보정</sub></td><td align="right"><sub>2h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/208"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · fix: 접수된 긴급 호출 취소 상태 처리</sub></td><td align="right"><sub>3h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/208"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>LABELED · fix: 접수된 긴급 호출 취소 상태 처리</sub></td><td align="right"><sub>4h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/206"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>LABELED · fix: 프로필 회사명과 이름 변경 막기</sub></td><td align="right"><sub>5h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/GYMUP-iOS"><strong>team-native/GYMUP-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/GYMUP-iOS"><strong>team-native/GYMUP-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/GYMUP-iOS"><strong>team-native/GYMUP-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/GYMUP-iOS"><strong>team-native/GYMUP-iOS</strong></a><br/><sub>BRANCH · 21-feat/h5-barbell-customization</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/GYMUP-iOS"><strong>team-native/GYMUP-iOS</strong></a><br/><sub>BRANCH · 16-feat/h3-weekly-goal</sub></td><td align="right"><sub>1d ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
