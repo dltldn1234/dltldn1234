@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/GYMUP-iOS"><strong>team-native/GYMUP-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>10m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/GYMUP-iOS"><strong>team-native/GYMUP-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>10m ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · fix/241-site-selection-link-flow</sub></td><td align="right"><sub>1h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/241"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>CLOSED · fix: Figma 현장 선택 및 새 현장 연동 진입</sub></td><td align="right"><sub>57m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>57m ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/255"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>CLOSED · feat: Figma 신청 접수·철회 완료 상태 연결</sub></td><td align="right"><sub>1h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>2h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/247"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>CLOSED · security: 세션 토큰을 기기 한정 Keychain 항목으로 보호</sub></td><td align="right"><sub>2h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
