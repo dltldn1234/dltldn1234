@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/dltldn1234/AirControl-Windows"><strong>dltldn1234/AirControl-Windows</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>12m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/370"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>CLOSED · fix: avoid duplicate checklist rounds requests on screen re-en</sub></td><td align="right"><sub>21m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>21m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>21m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/372"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · feat: [privacy] obscure sensitive screen in app switcher</sub></td><td align="right"><sub>24m ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · perf/#358-checklist-photo-memory</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>7h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/374"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · fix: 로그인 버튼 키보드 애니메이션 타이밍 맞추기</sub></td><td align="right"><sub>7h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/dltldn1234/AirControl-Windows"><strong>dltldn1234/AirControl-Windows</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>8h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
