@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>15m ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · feat/#405-current-location-weather</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/422"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>LABELED · fix: 팀 선택이 필요한 앱 요청에 X-Team-Id 누락 방지</sub></td><td align="right"><sub>28m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/422"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · fix: 팀 선택이 필요한 앱 요청에 X-Team-Id 누락 방지</sub></td><td align="right"><sub>28m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/420"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>CLOSED · fix: 회원가입 최종 단계에서 실패 오류가 보이지 않는 문제</sub></td><td align="right"><sub>48m ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/dltldn1234/geulion"><strong>dltldn1234/geulion</strong></a><br/><sub>BRANCH · 37-feat/v02-language-and-string-stdlib</sub></td><td align="right"><sub>4h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>16h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · feat/#416-cold-wave-display</sub></td><td align="right"><sub>16h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>BRANCH · design/#260-figma-parity</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>15h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
