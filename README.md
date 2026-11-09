@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/dltldn1234/geulion"><strong>dltldn1234/geulion</strong></a><br/><sub>BRANCH · 37-feat/v02-language-and-string-stdlib</sub></td><td align="right"><sub>4h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>16h ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · feat/#416-cold-wave-display</sub></td><td align="right"><sub>16h ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>BRANCH · design/#260-figma-parity</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>15h ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/dltldn1234/geulion"><strong>dltldn1234/geulion</strong></a><br/><sub>BRANCH · 59-feat/vscode-cli-commands</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/dltldn1234/geulion"><strong>dltldn1234/geulion</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>12h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/dltldn1234/geulion/issues/77"><strong>dltldn1234/geulion</strong></a><br/><sub>OPENED · [feat] Add a protocol-level GEULION Language Server</sub></td><td align="right"><sub>21m ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/dltldn1234/geulion"><strong>dltldn1234/geulion</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/dltldn1234/geulion"><strong>dltldn1234/geulion</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>24m ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
