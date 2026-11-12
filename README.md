@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>15m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/438"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · fix: 체크리스트 회차 자동 진행 및 한파 정보 실패 안내</sub></td><td align="right"><sub>17m ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>23h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>23h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>23h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>28m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1/issues/228"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>CLOSED · [DOCS] v1.5 개발 컨벤션 문서화</sub></td><td align="right"><sub>28m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>29m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>33m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/442"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>OPENED · fix: 홈 체크 타임라인 연결선을 점 중심으로 연속 표시</sub></td><td align="right"><sub>35m ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
