@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · feat/#436-checklist-round-timeline</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-iOS-v1"><strong>team-native/hopes-iOS-v1</strong></a><br/><sub>BRANCH · docs/228-v1-5-conventions</sub></td><td align="right"><sub>8h ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · feat/#434-home-weather-cache-refresh</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · fix/#440-checklist-horizontal-timeline</sub></td><td align="right"><sub>9h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>10m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>10m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/pull/83"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>OPENED · [FEAT] 시스템 프롬프트 저장 완료 토스트 구현</sub></td><td align="right"><sub>12m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>13m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>13m ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
