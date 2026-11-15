@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>BRANCH · feat/3-mypage</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>BRANCH · feat/49-community-write-design</sub></td><td align="right"><sub>2d ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/212"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>ASSIGNED · [FIX] 대화 복사·저장 완료 토스트를 Figma에 맞춤</sub></td><td align="right"><sub>1m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/212"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>LABELED · [FIX] 대화 복사·저장 완료 토스트를 Figma에 맞춤</sub></td><td align="right"><sub>1m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/212"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>OPENED · [FIX] 대화 복사·저장 완료 토스트를 Figma에 맞춤</sub></td><td align="right"><sub>1m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/210"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>CLOSED · [FIX] 대화 상세 키보드 입력 상태를 Figma에 맞춤</sub></td><td align="right"><sub>3m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3m ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
