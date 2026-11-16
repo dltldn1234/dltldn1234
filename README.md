@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/212"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>ASSIGNED · [FIX] 대화 복사·저장 완료 토스트를 Figma에 맞춤</sub></td><td align="right"><sub>1m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/212"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>LABELED · [FIX] 대화 복사·저장 완료 토스트를 Figma에 맞춤</sub></td><td align="right"><sub>1m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/212"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>OPENED · [FIX] 대화 복사·저장 완료 토스트를 Figma에 맞춤</sub></td><td align="right"><sub>1m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/210"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>CLOSED · [FIX] 대화 상세 키보드 입력 상태를 Figma에 맞춤</sub></td><td align="right"><sub>3m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>7m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/319"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>ASSIGNED · [FIX] 회원가입 인증 오류와 만료 입력 상태를 Figma에 맞춤</sub></td><td align="right"><sub>9m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/319"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>LABELED · [FIX] 회원가입 인증 오류와 만료 입력 상태를 Figma에 맞춤</sub></td><td align="right"><sub>9m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/319"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>OPENED · [FIX] 회원가입 인증 오류와 만료 입력 상태를 Figma에 맞춤</sub></td><td align="right"><sub>9m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/hopes-ios-v2/issues/318"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>CLOSED · [FIX] 회원가입 이메일 입력 필드 높이를 Figma에 맞춤</sub></td><td align="right"><sub>11m ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
