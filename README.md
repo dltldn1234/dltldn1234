@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>7h ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>3h ago</sub></td></tr>
 <tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>9h ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>BRANCH · fix/224-attachment-limit-validation</sub></td><td align="right"><sub>4h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>8h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>BRANCH · fix/206-department-check-asset</sub></td><td align="right"><sub>20h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
