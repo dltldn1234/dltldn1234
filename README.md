@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>BRANCH · feat/482-specialty-ids-reply-email</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>BRANCH · fix/476-chat-interactions</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>BRANCH · fix/470-subpage-tabbar</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/hopes-ios-v2"><strong>team-native/hopes-ios-v2</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2d ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>4h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/MOSS-ios/issues/7"><strong>team-native/MOSS-ios</strong></a><br/><sub>CLOSED · [Feat] 일반 사용자 메인·검색·찜·마이 화면 퍼블리싱</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/MOSS-ios/issues/11"><strong>team-native/MOSS-ios</strong></a><br/><sub>CLOSED · [Feat] 마이페이지 화면 퍼블리싱</sub></td><td align="right"><sub>3h ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>3h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
