@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/MOSS-ios/issues/74"><strong>team-native/MOSS-ios</strong></a><br/><sub>OPENED · [Feat] 사업자 운영 정보 수정 화면 및 로컬 저장</sub></td><td align="right"><sub>8m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/MOSS-ios/issues/72"><strong>team-native/MOSS-ios</strong></a><br/><sub>CLOSED · [Feat] 사업자 메뉴·상품 관리 및 로컬 편집 화면</sub></td><td align="right"><sub>9m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>10m ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>11m ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-native/MOSS-ios/issues/72"><strong>team-native/MOSS-ios</strong></a><br/><sub>OPENED · [Feat] 사업자 메뉴·상품 관리 및 로컬 편집 화면</sub></td><td align="right"><sub>17m ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/Book-on-iOS-v1"><strong>team-native/Book-on-iOS-v1</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>4h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>6h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/dltldn1234/Snow-World"><strong>dltldn1234/Snow-World</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>4h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/dltldn1234/Snow-World"><strong>dltldn1234/Snow-World</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>4h ago</sub></td></tr>
+<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/dltldn1234/Snow-World"><strong>dltldn1234/Snow-World</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>4h ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
