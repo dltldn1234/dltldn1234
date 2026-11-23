@@ -82,9 +82,9 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>BRANCH · feature/merchant-reply-edit</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2d ago</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>BRANCH · feature/profile-edit</sub></td><td align="right"><sub>2d ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>BRANCH · feature/merchant-event-edit</sub></td><td align="right"><sub>2d ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>BRANCH · feature/merchant-event-management</sub></td><td align="right"><sub>2d ago</sub></td></tr>
+<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>BRANCH · feature/merchant-store-policy-edit</sub></td><td align="right"><sub>2d ago</sub></td></tr>
 <tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2d ago</sub></td></tr>
 <tr><td width="96"><code>↗ PUSH</code></td><td><a href="https://github.com/team-native/MOSS-ios"><strong>team-native/MOSS-ios</strong></a><br/><sub>Pushed commits</sub></td><td align="right"><sub>2d ago</sub></td></tr>
 </table>
