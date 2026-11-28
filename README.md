@@ -82,11 +82,11 @@ TOOLING           Git / GitHub / VS Code / Firebase / Python
 
 <table>
 <tr><td colspan="3"><sub>SYS.ACTIVITY.LOG // LIVE FEED</sub></td></tr>
-<tr><td width="96"><code>⌇ BRANCH</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>BRANCH · fix/#447-home-ui-reference-parity</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/265"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>CLOSED · feat: iOS 앱 이름을 안전맛집으로 변경</sub></td><td align="right"><sub>13h ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>13h ago</sub></td></tr>
-<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS/issues/447"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>CLOSED · fix: Android 레퍼런스 기준 홈·현장 목록 UI 정합</sub></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/heatguard-iOS"><strong>team-nativeLab/heatguard-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/280"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>ASSIGNED · fix: Figma A-13e 로그인 안내 카드 제거 및 간격 일치</sub></td><td align="right"><sub>7m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/280"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>LABELED · fix: Figma A-13e 로그인 안내 카드 제거 및 간격 일치</sub></td><td align="right"><sub>7m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/280"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>OPENED · fix: Figma A-13e 로그인 안내 카드 제거 및 간격 일치</sub></td><td align="right"><sub>7m ago</sub></td></tr>
+<tr><td width="96"><code>! ISSUE</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS/issues/270"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>CLOSED · fix: Figma A-56 마케팅 수신 동의 아이콘 일치</sub></td><td align="right"><sub>19m ago</sub></td></tr>
+<tr><td width="96"><code>⌁ PULL</code></td><td><a href="https://github.com/team-nativeLab/Eum-ShoppingMall-iOS"><strong>team-nativeLab/Eum-ShoppingMall-iOS</strong></a><br/><sub>Pull request</sub></td><td align="right"><sub>19m ago</sub></td></tr>
 </table>
 
 <!-- ACTIVITY:END -->
